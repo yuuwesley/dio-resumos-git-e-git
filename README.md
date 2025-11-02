@@ -1,6 +1,6 @@
 \# RESUMOS GIT E GITHUB
 
-Repositorio par aarmazenar resumos sobre Git e Github
+Repositorio para armazenar resumos sobre Git e Github
 
 
 
