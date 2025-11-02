@@ -1,9 +1,6 @@
 \# RESUMOS GIT E GITHUB
 
-
-
 Repositorio par aarmazenar resumos sobre Git e Github
-
 
 
 
@@ -16,7 +13,9 @@ Repositorio par aarmazenar resumos sobre Git e Github
 
 
 
+
 \## 💻 Resumo de Aulas
+
 
 
 
